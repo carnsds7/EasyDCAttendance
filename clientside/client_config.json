@@ -1,5 +1,4 @@
 {
-  "HOST" : "lilserv.duckdns.org",
-  "PORT" : "22822",
-  "ADMNPWD" : "helplab2018"
+  "HOST" : "192.168.2.23",
+  "PORT" : "2222"
 }

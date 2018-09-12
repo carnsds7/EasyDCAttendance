@@ -2,6 +2,7 @@
 @author Dillon Carns
 @version 09/11/2018
 '''
+import sys
 import tkinter as tk
 from tkinter import font  as tkfont
 from PIL import ImageTk, Image
