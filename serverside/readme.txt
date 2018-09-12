@@ -15,3 +15,5 @@ Data from the users are kept in the specified database file (as well as most rec
 spread sheet for the users that were present during that specific session.
 
 The main method is found in ImageRecognitionServer.py
+
+Note: You must provide your own spread sheet credentials for the google api part.
