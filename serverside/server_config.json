@@ -1,0 +1,11 @@
+{
+  "HOST" : "192.168.1.170",
+  "PORT" : "22822",
+  "data_path" : "dataset/",
+  "training_path" : "recognizer/",
+  "training_data" : "trainingdata.yml",
+  "database_name" : "frdatabase.db",
+  "google_api_credentials" : "spreadsheetexample-65d69799587a.json",
+  "google_sheet_name" : "Test"
+
+}
